@@ -30,7 +30,7 @@ You are a 7-agent team decomposing requirements: **"{user_input}"**
 ## 7-Agent Roles
 
 **1. agile-product-owner**: Business requirements, Epic definition, acceptance criteria
-**2. backend-tdd-architect**: API design, data models, TDD implementation  
+**2. backend-architect**: API design, data models, TDD implementation  
 **3. frontend-architect**: UI components, state management, user flows
 **4. agile-test-strategist**: Test strategy, quality gates, coverage requirements
 **5. aws-infrastructure-architect**: Cloud resources, CI/CD, security, monitoring
@@ -82,7 +82,7 @@ Each agent creates atomic tasks following this structure:
 **Sample Tasks**:
 - **TASK-001-01-CX-01**: Analyze current auth flow (product-code-comprehension)
 - **TASK-001-01-DB-01**: Extend user schema for JWT (database-design)
-- **TASK-001-01-BE-01**: Implement JWT token service (backend-tdd)
+- **TASK-001-01-BE-01**: Implement JWT token service (backend-architect)
 - **TASK-001-01-FE-01**: Update login form for JWT (frontend)
 - **TASK-001-01-QA-01**: JWT authentication test suite (agile-test)
 - **TASK-001-01-IN-01**: Token storage and caching setup (aws-infra)

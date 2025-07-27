@@ -31,11 +31,11 @@
 ### Phase 2: Parallel Design Creation (15min)
 All 7 agents create specialized designs:
 
-- **Backend-tdd-architect**: API specifications, data flows, service contracts
-- **Frontend-architect**: Component hierarchy, user flows, state management
-- **Database-design-specialist**: ER diagrams, schema design, optimization
-- **AWS-infrastructure-architect**: Cloud architecture, CI/CD, security
-- **Agile-test-strategist**: Test strategy, coverage plans, quality gates
+- **backend-architect**: API specifications, data flows, service contracts
+- **frontend-architect**: Component hierarchy, user flows, state management
+- **database-design-specialist**: ER diagrams, schema design, optimization
+- **aws-infrastructure-architect**: Cloud architecture, CI/CD, security
+- **agile-test-strategist**: Test strategy, coverage plans, quality gates
 
 ### Phase 3: Integration Review (10min)
 Cross-validation across all agents for design consistency and integration points.

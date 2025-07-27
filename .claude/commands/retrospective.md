@@ -30,7 +30,7 @@
 ## 7-Agent Retrospective Roles
 
 - **agile-product-owner**: Business value realization, stakeholder satisfaction analysis
-- **backend-tdd-architect**: API quality metrics, TDD effectiveness, technical performance
+- **backend-architect**: API quality metrics, TDD effectiveness, technical performance
 - **frontend-architect**: UI/UX outcomes, component reusability, user experience metrics
 - **agile-test-strategist**: Quality gates, test effectiveness, risk mitigation success
 - **aws-infrastructure-architect**: Infrastructure efficiency, deployment reliability

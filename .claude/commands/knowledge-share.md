@@ -64,12 +64,13 @@
 
 ### Cross-Agent Value Proposition
 Define how knowledge applies to each agent's domain:
-- **Backend/Frontend**: API design, component patterns, integration points
-- **Test**: Quality strategies, validation approaches  
-- **Infrastructure**: Deployment, security, monitoring considerations
-- **Database**: Data modeling, performance optimization
-- **Code Comprehension**: Architecture insights, technical debt management
-- **Product Owner**: Business value realization, user impact
+- **backend-architect**: API design, service patterns, integration points
+- **frontend-architect**: Component patterns, state management, user flows
+- **agile-test-strategist**: Quality strategies, validation approaches
+- **aws-infrastructure-architect**: Deployment, security, monitoring considerations
+- **database-design-specialist**: Data modeling, performance optimization
+- **product-code-comprehension-expert**: Architecture insights, technical debt management
+- **agile-product-owner**: Business value realization, user impact
 
 ## Quality Validation
 

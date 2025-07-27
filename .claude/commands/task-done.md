@@ -28,13 +28,13 @@
 
 ### 7-Agent Cross-Validation
 All agents validate task completion from their specialized perspective:
-- **Backend**: API contracts, database integration, TDD compliance
-- **Frontend**: Component standards, state management, accessibility
-- **Test**: Coverage goals, quality gates, regression analysis
-- **Infrastructure**: Deployment readiness, security, monitoring
-- **Database**: Data integrity, performance optimization
-- **Code Comprehension**: Architecture quality, technical debt
-- **Product Owner**: Business value realization, acceptance criteria
+- **backend-architect**: API contracts, database integration, TDD compliance
+- **frontend-architect**: Component standards, state management, accessibility
+- **agile-test-strategist**: Coverage goals, quality gates, regression analysis
+- **aws-infrastructure-architect**: Deployment readiness, security, monitoring
+- **database-design-specialist**: Data integrity, performance optimization
+- **product-code-comprehension-expert**: Architecture quality, technical debt
+- **agile-product-owner**: Business value realization, acceptance criteria
 
 ## Dependency Resolution
 
@@ -51,13 +51,13 @@ Example: "User Auth API" completion unblocks:
 
 ### Agent Notification System
 Each agent automatically notifies relevant agents when completing tasks:
-- **Backend** → Frontend (API contracts), Database (schema), Infrastructure (deploy needs)
-- **Frontend** → Backend (data requirements), Test (UI scenarios), Product (UX feedback)
-- **Test** → All agents (quality results), Product Owner (release readiness)
-- **Infrastructure** → All agents (deployment constraints), Product Owner (cost impacts)
-- **Database** → Backend/Frontend (schema changes), Infrastructure (resource needs)
-- **Code Comprehension** → All agents (architecture guidance), Product Owner (feasibility)
-- **Product Owner** → All agents (requirements clarification, priority adjustments)
+- **backend-architect** → frontend-architect (API contracts), database-design-specialist (schema), aws-infrastructure-architect (deploy needs)
+- **frontend-architect** → backend-architect (data requirements), agile-test-strategist (UI scenarios), agile-product-owner (UX feedback)
+- **agile-test-strategist** → All agents (quality results), agile-product-owner (release readiness)
+- **aws-infrastructure-architect** → All agents (deployment constraints), agile-product-owner (cost impacts)  
+- **database-design-specialist** → backend/frontend (schema changes), aws-infrastructure (resource needs)
+- **product-code-comprehension-expert** → All agents (architecture guidance), agile-product-owner (feasibility)
+- **agile-product-owner** → All agents (requirements clarification, priority adjustments)
 
 ## Next Task Selection & Handoffs
 
@@ -82,13 +82,13 @@ Project Status: 67% complete (34/51 tasks)
 Agent Collaboration: 89% efficiency
 
 Agent Status:
-🟢 Backend: In Progress (8/12 complete)
-🟡 Frontend: Waiting (5/9 complete, 2 blocked)  
-🟢 Test: Active (6/8 complete)
-🟢 AWS: Deploying (4/6 complete)
-✅ Database: Complete (5/5)
-🟢 Code Analysis: Active (3/5 complete)
-🟡 Product Owner: Reviewing (3/6 complete)
+🟢 backend-architect: In Progress (8/12 complete)
+🟡 frontend-architect: Waiting (5/9 complete, 2 blocked)  
+🟢 agile-test-strategist: Active (6/8 complete)
+🟢 aws-infrastructure-architect: Deploying (4/6 complete)
+✅ database-design-specialist: Complete (5/5)
+🟢 product-code-comprehension-expert: Active (3/5 complete)
+🟡 agile-product-owner: Reviewing (3/6 complete)
 ```
 
 ### Task Completion Report
