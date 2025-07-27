@@ -1,6 +1,6 @@
-# Epic Retrospective Analysis
+# Comprehensive Epic Retrospective
 
-**Purpose**: Conduct comprehensive Epic retrospective with data-driven insights and improvement recommendations.
+**CORE PURPOSE**: Conduct data-driven Epic retrospective with 7-agent insights and continuous improvement recommendations.
 
 ## Usage
 ```
@@ -16,127 +16,76 @@
 - Data-driven improvement recommendations
 - Collaboration efficiency analysis
 - Process optimization proposals
-- **Files**: 
-  - `agent-docs/EPIC-{ID}-{name}/analysis/retrospective-data.md`
-  - `agent-docs/EPIC-{ID}-{name}/analysis/metrics.md`
+- **OUTPUT FILES**: 
+  - `agent-docs/EPIC-{ID}-{epic-name}/analysis/retrospective-data.md`
+  - `agent-docs/EPIC-{ID}-{epic-name}/analysis/metrics.md`
 
-## Agent Collaboration
+## Retrospective Intelligence
 
-### Automatic Knowledge Integration
-- Load `agent-docs/knowledge.md` for pattern analysis
-- Load `agent-docs/try.md` for improvement tracking
-- Apply learned patterns to retrospective insights
+**AUTO-INITIALIZATION**: Load `agent-docs/knowledge.md` and `agent-docs/try.md` for:
+- Pattern analysis and improvement tracking
+- Knowledge usage effectiveness evaluation
+- Try item implementation success measurement
 
-### 7-Agent Analysis Framework
-All agents contribute specialized retrospective insights:
+## 7-Agent Retrospective Roles
 
-- **agile-product-owner**: Business value realization, stakeholder satisfaction
-- **backend-tdd-architect**: API quality, TDD effectiveness, technical metrics
-- **frontend-architect**: UI/UX outcomes, component reusability, performance
-- **agile-test-strategist**: Quality metrics, test effectiveness, risk mitigation
-- **aws-infrastructure-architect**: Infrastructure efficiency, deployment success
-- **database-design-specialist**: Data model effectiveness, query performance
-- **product-code-comprehension-expert**: Code quality, technical debt, architecture
+- **agile-product-owner**: Business value realization, stakeholder satisfaction analysis
+- **backend-tdd-architect**: API quality metrics, TDD effectiveness, technical performance
+- **frontend-architect**: UI/UX outcomes, component reusability, user experience metrics
+- **agile-test-strategist**: Quality gates, test effectiveness, risk mitigation success
+- **aws-infrastructure-architect**: Infrastructure efficiency, deployment reliability
+- **database-design-specialist**: Data model performance, query optimization results
+- **product-code-comprehension-expert**: Code quality evolution, technical debt management
 
-## Analysis Process
+## Retrospective Execution Framework
 
-### Phase 1: Performance Metrics Collection (Auto)
-```
-Epic Completion Analysis:
-- Task completion rates and timing
-- Quality gate pass/fail rates
-- Agent collaboration efficiency scores
-- Bottleneck identification and resolution times
-- Knowledge base usage statistics
+### Automatic Data Collection
+- Task completion rates and timing analysis
+- Quality gate pass/fail metrics
+- Agent collaboration efficiency scores  
+- Knowledge base usage effectiveness
 - Try item implementation success rates
-```
 
-### Phase 2: Multi-Agent Insights Gathering
-Each agent provides domain-specific retrospective analysis:
-- What worked well in their specialty area
-- Challenges encountered and solutions found
-- Improvement opportunities identified
-- Knowledge gained for future application
+### Multi-Agent KPT Analysis
 
-### Phase 3: Cross-Agent Pattern Recognition
-Identify collaboration patterns and optimization opportunities:
-- High-efficiency agent pairing patterns
-- Successful dependency resolution strategies
-- Effective knowledge sharing approaches
-- Process bottlenecks requiring cross-functional solutions
+**Keep**: Quantified success factors with measured impact
+**Problem**: Bottlenecks with time impact and root cause analysis  
+**Try**: Specific improvement initiatives with success metrics
 
-### Phase 4: Data-Driven KPT Analysis
+## Output Structure
 
-**Keep** (Quantified Success Factors):
-- Effective practices with measured impact
-- Successful collaboration patterns
-- Knowledge applications that accelerated delivery
-- Quality improvements achieved
+### Epic Performance Analysis
+- Completion metrics vs targets with variance analysis
+- Quality achievements and improvement gaps
+- Business value delivery assessment with ROI metrics
 
-**Problem** (Measured Issues):
-- Bottlenecks with time impact analysis
-- Quality issues and root causes
-- Collaboration friction points
-- Resource utilization inefficiencies
+### Agent Collaboration Insights  
+- Individual contribution metrics and efficiency patterns
+- Cross-agent handoff effectiveness analysis
+- Communication pattern optimization opportunities
 
-**Try** (Improvement Proposals):
-- Specific, measurable improvement initiatives
-- Process optimization opportunities
-- Tool/technology enhancement proposals
-- Knowledge gap filling strategies
+### Knowledge Base Evolution
+**Auto-update `agent-docs/knowledge.md`**:
+- Usage statistics and effectiveness ratings for existing knowledge
+- New learnings and patterns discovered during Epic
+- Knowledge gap identification and filling recommendations
 
-## Output Generation
+**Auto-update `agent-docs/try.md`**:
+- Try item implementation success/failure analysis
+- Progress updates with quantified impact measurements
+- New improvement proposals based on retrospective insights
 
-### Comprehensive Analysis Reports
-Generate structured retrospective documentation covering:
+### Continuous Improvement Pipeline
+Generate prioritized recommendations for:
+- Immediate process adjustments for next Epic
+- Knowledge sharing and cross-training opportunities  
+- Tool/technology improvements with expected ROI
+- Long-term strategic process evolution
 
-1. **Epic Performance Summary**
-   - Overall completion metrics vs targets
-   - Quality achievements and gaps
-   - Business value delivery assessment
+## Success Measurement
+- Try item implementation rate (target: >70%)
+- Process efficiency improvement trends
+- Knowledge base utilization effectiveness
+- Agent collaboration satisfaction scores
 
-2. **Agent Collaboration Analysis**
-   - Individual agent contribution metrics
-   - Cross-agent efficiency patterns
-   - Communication and handoff effectiveness
-
-3. **Process Optimization Recommendations**
-   - Immediate improvements for next Epic
-   - Medium-term process evolution proposals
-   - Long-term strategic recommendations
-
-4. **Knowledge Base Updates**
-   - New learnings captured in `agent-docs/knowledge.md`
-   - Try item progress updates in `agent-docs/try.md`
-   - Usage statistics and effectiveness ratings
-
-### Actionable Next Steps
-Provide concrete, prioritized recommendations:
-- Process adjustments for immediate implementation
-- Tool/technique experiments to try
-- Knowledge areas requiring development
-- Collaboration pattern refinements
-
-## Success Metrics
-
-Track retrospective effectiveness:
-- Implementation rate of Try items from previous retrospectives
-- Process efficiency improvements measured
-- Quality metric trends over time
-- Team satisfaction and learning velocity
-
-## Knowledge Integration
-
-**Automatic Knowledge Usage Tracking**:
-- Which knowledge patterns were most valuable
-- Knowledge gaps identified during Epic execution
-- New patterns discovered worth capturing
-- Try item effectiveness and continuation decisions
-
-**Knowledge Base Evolution**:
-- Update usage statistics for knowledge entries
-- Add new discoveries and learnings
-- Retire outdated or ineffective knowledge
-- Enhance successful patterns with more detail
-
-The retrospective leverages the full 7-agent collaboration model to provide comprehensive, actionable insights for continuous improvement while maintaining the knowledge-driven development approach established in previous commands.
+The retrospective maintains the established 7-agent collaboration model while automatically evolving the knowledge-driven development approach for sustained improvement.
